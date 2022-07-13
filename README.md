@@ -1,0 +1,1 @@
+# solana-collect-donations
